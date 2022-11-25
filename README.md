@@ -1,4 +1,4 @@
-# Library-managment-system
+# Library-management-system
 The project was to make a stock system for a music shop. 
 This project was done using C++. The framework catch2 was used for unit testing.
 
